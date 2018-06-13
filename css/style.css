@@ -1,0 +1,16 @@
+h1 {
+  color: blue;
+  text-align: center;
+}
+h2 {
+  color: purple;
+  font-style: bold;
+  text-align: center;
+}
+p {
+  font-family: serif;
+  font-style: italic;
+}
+ul {
+  line-height: 20px;
+}
